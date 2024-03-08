@@ -1,0 +1,35 @@
+{
+  "name": "js_pushnotif",
+  "version": "1.0.0",
+  "description": "Sending Message via HTTP using HTML, NodeJS, SQLite3",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcAxel.git"
+  },
+  "keywords": [
+    "Simple",
+    "Message",
+    "Sender",
+    "HTML",
+    "NodeJS",
+    "SQLite"
+  ],
+  "author": "Marcellius Jevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/MarcAxel/issues"
+  },
+  "homepage": "https://github.com/github.com/MarcAxel#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "http": "^0.0.1-security",
+    "request": "^2.88.2",
+    "socket.io": "^4.6.1",
+    "sqlite3": "^5.1.6",
+    "validator": "^13.9.0"
+  }
+}
